@@ -40,3 +40,5 @@ Customize switch from Java file :
     Get current selected view - vsMySwitch.getCurrentPosition() returns 0/1
     Set listener to check view selection changes - vsMySwitch.setOnStatusChangeListener(new ...)
 
+
+checkout my blog for more updates: https://lalitjadav007.blogspot.in/
